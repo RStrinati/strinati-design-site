@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://strinatidesign.com/sitemap.xml
